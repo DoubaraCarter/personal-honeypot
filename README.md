@@ -19,7 +19,7 @@ This repository contains a collection of honeypot services for learning and expe
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/personal-honeypot.git
+   git clone https://github.com/DoubaraCarter/personal-honeypot.git
    cd personal-honeypot
 2. **Before running the honeypots, configure your email settings in email_alerts.py**
 -  **Replace the placeholders with your actual email credentials and SMTP server details.**
